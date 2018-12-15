@@ -1,2 +1,2 @@
 def multiply(a,k):
-	return a*k # Coucou !
+	return (a*k +1) # Coucou !
